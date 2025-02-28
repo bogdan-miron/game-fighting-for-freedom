@@ -14,21 +14,11 @@
 
 - **Top-Down Shooter**: A classic top-down perspective with shooting mechanics.
 - **Cross-Platform**: Works on both **mobile devices** and **Windows**.
-- **Simple Controls**: Easy-to-use controls designed for accessibility.
-- **Basic Visuals**: Clean and functional graphics to keep the focus on gameplay.
+- **Simple Controls**: Twin stick shooter.
 - **Free to Play**: Available for free on [itch.io](https://mcoders.itch.io/fightingforfreedom).
 
 ---
 
-## Technologies Used
-
-- **Game Engine**: Unity
-- **Programming Language**: C#
-- **Platforms**: Android, Windows
-- **Version Control**: Git
-- **Deployment**: itch.io
-
----
 
 ## Screenshots
 ![Screenshot 2025-02-28 145205](https://github.com/user-attachments/assets/cc1fdb4e-e820-40af-8371-16951bb758c9)
