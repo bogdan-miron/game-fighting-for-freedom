@@ -4,19 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [About the Game](#about-the-game)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [Download and Play](#download-and-play)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## About the Game
 
 **Fighting For Freedom** is a simple yet engaging top-down shooter where players fight through waves of enemies. It was my first attempt at creating a cross-platform game, and I focused on making the controls intuitive and the gameplay fun. The game is free to play and was released on itch.io as part of my portfolio.
